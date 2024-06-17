@@ -5,8 +5,11 @@ This project aims to predict the likelihood of individuals receiving the xyz and
 
 This is a multilabel prediction problem, meaning respondents can receive none, one, or both vaccines.
 
-![graphs_screenshot](https://github.com/ADI-NARAYAN27/Aditya_Narayan_DataHack/assets/113357004/cdf202b2-78ef-4f95-ac27-57fb49c21c74)
-![Screenshot 2024-06-17 171409](https://github.com/ADI-NARAYAN27/Aditya_Narayan_DataHack/assets/113357004/fa5b8158-43e8-4ab0-ab29-42c71e0504be)
+# Plot
+![graphs_screenshot](https://github.com/ADI-NARAYAN27/Aditya_Narayan_DataHack/assets/113357004/635f9696-efbc-4481-b1bf-1647b20ac2b4)
+
+# Submission Screenshot
+![Screenshot 2024-06-17 171409](https://github.com/ADI-NARAYAN27/Aditya_Narayan_DataHack/assets/113357004/91f99b7f-a4a6-45c5-b95d-5a33cae073b5)
 
 # Dataset Description
 - **Respondent ID**: Unique identifier for each respondent.
